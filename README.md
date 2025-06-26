@@ -31,7 +31,7 @@ A beginner-friendly decentralized application (dApp) that helps users understand
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/satyaidk/swap-simplify.git
+git clone https://github.com/satyaidk/Swap-Simplify-Dapp.git
 cd swap-simplify
 \`\`\`
 
